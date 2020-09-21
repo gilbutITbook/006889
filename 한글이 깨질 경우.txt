@@ -1,0 +1,6 @@
+visual studio code를 예로 설명합니다. 
+
+visual studio code로 연다음에 한글이 깨져 나올 경우
+우측 하단의 UTF-8을 클릭하여 Reopen with encoding을 누른 후 euc-kr을 선택합니다. 
+한글이 깨지지 않은 것을 확인한 뒤 다시 우측 하단의 UTF-8을 클릭하여 
+Save with encoding을 선택한 다음에 UTF-8을 선택하여 저장합니다.
